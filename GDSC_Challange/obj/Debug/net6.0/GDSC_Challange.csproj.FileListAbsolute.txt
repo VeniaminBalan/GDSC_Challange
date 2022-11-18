@@ -1,0 +1,15 @@
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\bin\Debug\net6.0\GDSC_Challange.exe
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\bin\Debug\net6.0\GDSC_Challange.deps.json
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\bin\Debug\net6.0\GDSC_Challange.runtimeconfig.json
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\bin\Debug\net6.0\GDSC_Challange.dll
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\bin\Debug\net6.0\GDSC_Challange.pdb
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.csproj.AssemblyReference.cache
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.AssemblyInfoInputs.cache
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.AssemblyInfo.cs
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.csproj.CoreCompileInputs.cache
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.dll
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\refint\GDSC_Challange.dll
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.pdb
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\GDSC_Challange.genruntimeconfig.cache
+E:\PC\Learn\Programing\C#\Challange\GDSC_Challange\obj\Debug\net6.0\ref\GDSC_Challange.dll

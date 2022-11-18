@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GDSC_Challange/1.0.0": {
+        "runtime": {
+          "GDSC_Challange.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GDSC_Challange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
